@@ -4,6 +4,9 @@
 # Assets
 Assets/
 
+#Spaceship content
+Content/Spaceship Interior Environment Set
+
 # Compiled Object files
 *.slo
 *.lo
