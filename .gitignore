@@ -1,9 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
 
-# Assets
-Assets/
-
 #Spaceship content
 Content/SpaceshipInterior
 Content/StarterBundle
