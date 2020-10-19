@@ -6,6 +6,7 @@ Assets/
 
 #Spaceship content
 Content/SpaceshipInterior
+Content/StarterBundle
 
 # Compiled Object files
 *.slo
