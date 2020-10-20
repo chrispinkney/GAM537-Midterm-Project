@@ -5,6 +5,11 @@
 Content/SpaceshipInterior
 Content/StarterBundle
 
+#Config
+Config/DefaultEditor.ini
+Config/DefaultEngine.ini
+Config/DefaultInput.ini
+
 # Compiled Object files
 *.slo
 *.lo
