@@ -4,6 +4,7 @@
 #Spaceship content
 Content/SpaceshipInterior
 Content/StarterBundle
+Content/SpaceCockPits/
 
 #Config
 Config/DefaultEditor.ini
