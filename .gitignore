@@ -4,7 +4,8 @@
 #Spaceship content
 Content/SpaceshipInterior
 Content/StarterBundle
-Content/SpaceCockPits/
+Content/SpaceCockPits
+Content/FPS_Weapon_Bundle
 
 #Config
 Config/DefaultEditor.ini
